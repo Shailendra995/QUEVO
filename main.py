@@ -24,7 +24,7 @@ if __name__ == '__main__':
 
     # Generate initial generation of chromosomes
 
-    generation = Quevo.Generation(10, gates)
+    generation = Quevo.Generation(chromosomes, gates)
     generation.create_initial_generation(gate_types)
     generation.run_generation_kl(desired_chance_of_one)
 
