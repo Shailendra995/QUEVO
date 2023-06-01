@@ -1,4 +1,4 @@
-# QUEVO
+# QUEVO: Evolutionary Quantum Circuit to Generate CA Rules
 
 This code is created for a pilot project done through the [NordSTAR](https://www.oslomet.no/nordstar) research group at Oslo Metropolitan university. It generates simulated quantum circuits to fit a desired probability outcome for eight initial conditions. 
 
@@ -72,3 +72,6 @@ Project is created with:
 
 ## Setup
 This project uses Qiskit and scipy. The best way of installing qiskit is by using pip: `$ pip install qiskit` and `$ pip install scipy`
+
+## Cite this paper
+Bhandari, S., Overskott, S., Adamopoulos, I., Lind, P.G., Denysov, S., Nichele, S. (2022). Evolving Quantum Circuits to Implement Stochastic and Deterministic Cellular Automata Rules. In: Chopard, B., Bandini, S., Dennunzio, A., Arabi Haddad, M. (eds) Cellular Automata. ACRI 2022. Lecture Notes in Computer Science, vol 13402. Springer, Cham. https://doi.org/10.1007/978-3-031-14926-9_11
