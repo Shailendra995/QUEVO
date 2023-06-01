@@ -1,4 +1,4 @@
-# QUEVO: Evolutionary Quantum Circuit to Generate CA Rules
+# QUEVO
 
 This code is created for a pilot project done through the [NordSTAR](https://www.oslomet.no/nordstar) research group at Oslo Metropolitan university. It generates simulated quantum circuits to fit a desired probability outcome for eight initial conditions. 
 
